@@ -1,0 +1,14 @@
+{
+  "name": "callexternalapiusingnodejs-master",
+  "version": "1.0.0",
+  "description": "call api using node server",
+  "main": "NodeJsCall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaurav singh",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
